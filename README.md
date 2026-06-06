@@ -1,4 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
+## NAME: MONISHA L
+## REG NO: 2305001019
 
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
